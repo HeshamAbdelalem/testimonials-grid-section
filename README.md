@@ -16,8 +16,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/HeshamAbdelalem/testimonials-grid-section)
-- Live Site URL: [Add live site URL here](https://heshamabdelalem.github.io/testimonials-grid-section/)
+- Solution URL: [here](https://github.com/HeshamAbdelalem/testimonials-grid-section)
+- Live Site URL: [here](https://heshamabdelalem.github.io/testimonials-grid-section/)
 
 ## My process
 
